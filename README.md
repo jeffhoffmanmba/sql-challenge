@@ -10,7 +10,7 @@ Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool li
 
 #### Data Engineering
 
-* Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
+* Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types (int, varchar) primary keys (unique), foreign keys (columns linking data in two tables), and other constraints (null).
 
   * For the primary keys check to see if the column is unique, otherwise create a [composite key](https://en.wikipedia.org/wiki/Compound_key). Which takes to primary keys in order to uniquely identify a row.
   * Be sure to create tables in the correct order to handle foreign keys.
@@ -38,4 +38,3 @@ Once you have a complete database, do the following:
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
 ![alt test](https://github.com/jeffhoffmanmba/sql-challenge/blob/master/EmployeeSQL/sql.png)
-
