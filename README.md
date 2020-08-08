@@ -2,7 +2,7 @@
 
 ## Instructions
 
-![alt test](https://github.com/jeffhoffmanmba/sql-challenge/blob/master/EmployeeSQL/QuickDBD.pdf)
+![alt test](https://github.com/jeffhoffmanmba/sql-challenge/blob/master/EmployeeSQL/sql.png)
 
 #### Data Modeling
 
