@@ -6,7 +6,7 @@
 
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
-![alt test](https://github.com/jeffhoffmanmba/sql-challenge/blob/master/EmployeeSQL/QuickDBDimg.png)
+![alt test](https://github.com/jeffhoffmanmba/sql-challenge/blob/master/EmployeeSQL/Images/QuickDBDimg.png)
 
 #### Data Engineering
 
